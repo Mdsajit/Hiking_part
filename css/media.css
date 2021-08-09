@@ -1,0 +1,955 @@
+
+/*X-Small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+
+.navbar_header ul li a{
+    text-align: right;
+    padding: 10px 0 0 !important;
+ }
+ .carousel-item{
+    /*height: 100vh;*/
+    min-height: 200px;
+}
+.cid {
+    bottom: 9px;
+    left: 8px;
+}
+/*feature start*/
+  .c_head1 {
+    font-size: 45px;
+}
+.c_text {
+    font-size: 13.8px;
+    
+}.custom_title{
+    font-size: 20px;
+}
+.custom_text{
+    font-size: 14px;
+}
+
+.container_bn button {
+    font-size: 10px;
+    padding: 10px 25px;
+    }
+
+/*feature end*/
+   /*about start*/
+.five{
+    height: 770px;
+}   
+.six{
+    height: 770px;
+   
+}
+.service_b h1 {
+    padding: 10px 10px;
+    margin-left: 3px;
+    font-size: 20px;
+    margin-top: -48px;
+}
+.service_b p {
+    padding: 20px 20px;
+    font-size: 12px;
+    margin-top: 28px;
+    margin-left: 1px;
+}
+
+.service_b .btn_service button {
+    font-size: 12px;
+    padding: 7px 24px;
+}
+.service_b .btn_service {
+    margin-bottom: 10px;
+}
+
+.service_c h1 {
+    padding: 10px 10px;
+    padding-top: 0px;
+    font-size: 20px;
+}
+.service_c {
+    text-align: center;
+    padding-top: 90px;
+}
+ .service_c p {
+    padding: 10px;
+    font-size: 12px;
+}
+.service_c .btn_service button {
+    font-size: 12px;
+    padding: 7px 24px;
+    margin-left: 45px;
+}
+.service_c .btn_service {
+    margin-bottom: 10px;
+}
+/*about end*/
+/*hiking start*/
+.hiking{
+    margin-top: -20px;
+    height: 670px;
+}
+.hik_title {
+    margin: 0 auto;
+    padding: 187px 40px;
+}
+.hik_h1 {
+    font-size: 30px;
+   
+   
+}
+.hik_p {
+    font-size: 10px;
+    line-height: 18px;
+  }
+
+/*hiking end*/
+/*climb title*/
+.climb {
+    margin-top: -80px;
+    margin-bottom: 10px;
+}
+.climb_title {
+    margin-right: 10px !important;
+    margin-top: -70px;
+}
+
+.explore {
+    font-size: 25px !important;
+    margin-left: 93px;
+   
+}
+.world {
+    font-size: 30px !important;
+    
+}
+/*climb title end*/
+/*footer intro part*/
+.head{
+    font-size: 25px !important;
+}
+.middle{
+    font-size: 16px !important;
+}
+/*footer last part start*/
+/lorem part start/
+.f_icon {
+    margin-left: 150px !important;
+}
+.f_icon {
+    text-align: center;
+    margin-left: 26px;
+}
+.text_ftr {
+    margin-left: 10px;
+    text-align: center;
+}
+.p_ftr {
+    margin-left: -8px;
+    padding: 10px 10px;
+    font-size: 12px;
+}
+.h3_ftr {
+    margin-left: -8px;
+}
+.last {
+    
+margin-top: -115px;
+}
+/lorem part end/
+
+/*footer form part start*/
+.contact {
+    margin-top: -58px;
+    padding-top: 105px;
+    padding-bottom: 187px;
+   margin-bottom: -18px !important;
+}
+.c_title {
+    padding-top: 5px;
+}
+.ten_h1{
+    font-size: 40px;
+}
+.f_icon {
+    text-align: center;
+    margin-left: 3px;
+}
+
+.s_form {
+    margin-top: -32px;
+    margin-left: 9px;
+}
+.s_form input {
+    width: 249px;
+    height: 40px;
+    font-size: 16px;
+    color: #54514E;
+}
+.s_form button {
+    font-size: 12px;
+    width: 85px;
+    height: 40px;
+    left: 197px;
+}
+/*footer form part end*/
+/*footer last part start*/
+footer{
+  padding-bottom: 70px;
+}
+.f-heading {
+    margin-top: -170px;
+    margin-bottom: 40px;
+    }
+.f-social{
+    text-align: center;
+}
+.f-social ul li a {
+    display: block;
+    width: 32px;
+    height: 44px;
+    font-size: 30px;
+    border-radius: 15px;
+    }
+.f_h1{
+  margin-bottom: 30px;
+  text-align: center;
+ }
+ .f_p{
+    text-align: center;
+ }
+.f_1{
+  margin-bottom: 25px;
+  text-align: center;
+}
+.f_1 p a{
+  margin-bottom: -20px;
+  text-align: center;
+}
+.f_1 p a{
+  font-size: 15px;
+}
+.list-inline {
+    padding-bottom: 40px;
+}
+
+/*footer last part end*/
+
+
+ }
+
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+.navbar_header ul li a{
+    text-align: right;
+    padding: 10px 0 0 !important;
+}
+.cid {
+    bottom: 82px;
+    left: 0px;
+}
+
+ .feature {    
+    padding-top: 35px;
+    padding-bottom: 70px;
+}
+/*feature start*/
+.c_head1 {
+    font-size: 50px;
+    
+}
+.c_text {
+    font-size: 20.08px;
+    
+}
+.custom_title{
+    font-size: 15px;
+}
+.custom_text{
+    font-size: 10px;
+}
+.container_bn button {
+    font-size: 14.15px;
+    padding: 12px 45px;
+    }
+    /*feature end*/
+
+       /*about start*/
+.five{
+    height: 1100px;
+}   
+.six {
+    height: 1168px;
+}
+.service_b h1 {
+    margin-left: 37px;
+    font-size: 30px;
+    margin-top: -41px;
+}
+.service_b p {
+    margin-left: 22px;
+    font-size: 16px;
+    margin-top: 28px;
+}
+
+.service_b .btn_service button {
+    font-size: 16px;
+    padding: 8px 38px;
+}
+
+.service_b .btn_service {
+    margin-bottom: 0px;
+}
+
+.service_c h1 {
+    padding-top: 0px;
+    font-size: 30px;
+}
+
+.service_c {
+    padding-top: 50px;
+    padding-right: 125px;
+}
+
+.service_c p {
+    font-size: 15px;
+}
+.service_c .btn_service button {
+    font-size: 16px;
+    padding: 8px 38px;
+    margin-left: 45px;
+}
+.service_c .btn_service {
+    padding-top: 25px;
+}
+/*about end*/
+/*hiking start*/
+.hiking{
+    margin-top: -20px;
+    height: 670px;
+}
+.hik_title {
+    margin: 0 auto;
+    padding: 187px 40px;
+}
+.hik_h1 {
+    font-size: 35px;
+    padding-top: 10px;
+   
+}
+.hik_p {
+    font-size: 14px;
+  }
+
+/*hiking end*/
+/*climb title*/
+.climb {
+    margin-top: -40px;
+    margin-bottom: 50px;
+}
+.climb_title {
+    padding-top: 200px;
+    padding-bottom: 299px;
+    /*margin-right: 10px !important;*/
+}
+
+.explore {
+    margin-top: 86px;
+    text-align: right;
+    font-size: 35px;
+}
+   
+
+.world {
+    margin-top: -10px;
+    text-align: right;
+    font-size: 40px;
+}
+
+/*climb title end*/
+
+/*footer last part start*/
+
+.f_icon {
+    margin-left: 20px;
+}
+.text_ftr {
+    margin-left: 10px;
+    text-align: center;
+}
+.p_ftr {
+    /* text-align: left; */
+    font-size: 17px;
+    margin: 30px auto 0;
+}
+.h3_ftr {
+    margin-left: 20px;
+}
+.last {
+    padding-top: 100px
+    
+}
+/*intro start*/
+.intro_text{
+    padding-bottom: 20px;
+}
+.head {
+    font-size: 30px;
+    text-align: center;
+}
+.middle {
+    font-size: 19px;
+    text-align: center;
+    margin:0 20px;
+
+}
+/*intro end*/
+/*footer last part start*/
+/*footer form part start*/
+.contact {
+    padding-top: 123px;
+    padding-bottom: 143px;
+}
+.ten_h1{
+    font-size: 45px;
+}
+.s_form {
+    margin-left: -106px;
+}
+.s_form input {
+    padding-right: 50px;
+    padding-left: 25px;
+    width: 350px;
+    height: 54px;
+    font-size: 16px;
+    
+}
+.s_form button {
+    font-size: 16px;
+    width: 150px;
+    height: 54px;
+    right: 35px;
+}
+/*footer form part end*/
+/*footer last part start*/
+footer{
+  padding-bottom: 70px;
+}
+.f-heading {
+    margin-top: -125px;
+    margin-bottom: 40px;
+    }
+.f-social{
+    text-align: center;
+}
+.f_h1{
+  margin-bottom: 30px;
+  text-align: center;
+ }
+ .f_p{
+    text-align: center;
+ }
+.f_1{
+  margin-bottom: 25px;
+  text-align: center;
+}
+.list-inline {
+    padding-bottom: 40px;
+}
+
+/*footer last part end*/
+}
+
+
+
+
+
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width:991.98px) {
+    /*header start*/
+ 
+ .navbar_header ul li a{
+    text-align: right;
+    padding: 10px 0 0 !important;
+ }
+ .cid {
+    bottom: 22px;
+    left: 25px;
+}
+
+
+ .feature{
+    padding-top: 73px;
+    padding-bottom: 54px;
+ }
+ .c_head1 {
+    font-size: 55px;
+}
+.c_text {
+    font-size: 21.08px;
+    
+}
+.custom_title{
+    font-size: 20px;
+}
+.custom_text{
+    font-size: 13px;
+}
+
+.container_bn button {
+    font-size: 16.15px;
+    padding: 12px 45px;
+    }
+    
+
+    /*about start*/
+    .five{
+    height: 420px;
+}   
+.six{
+    height: 420px;
+   
+} 
+.service_b {
+    box-sizing: border-box;
+    padding-top: 110px;
+    padding-bottom: 41px;
+}
+.service_b h1 {
+    margin-left: 7px;
+    font-size: 20px;
+}
+  .service_b p {
+    font-size: 11px;
+    margin-top: 18px;
+}
+.service_b .btn_service button {
+    font-size: 11px;
+    padding: 8px 23px;
+}
+.service_b .btn_service {
+    margin-top: 2px;
+    margin-right: 58px;
+}
+.service_c {
+    padding-top: 0px;
+    padding-bottom: 9px;
+}
+
+.service_c h1 {
+    font-size: 20px;
+}
+ .service_c p {
+    margin-left: -35px;
+    font-size: 12px;
+}
+.service_c .btn_service button {
+    font-size: 11px;
+    padding: 8px 23px;
+    margin-left: 54px;
+}
+.service_c .btn_service {
+    margin-right: 40px;
+    margin-bottom: 10px;
+}
+/*about end*/
+
+/*hiking start*/
+.hiking {
+    margin-top: 30px;
+    
+}
+.hik_h1 {
+   
+    font-size: 35px;
+    padding-top: 35px;
+   
+}
+.hik_p {font-size: 14px;
+    line-height: 22px;
+  
+}
+/*hiking end*/
+
+/*climb title*/
+.climb {
+    margin-top: -40px;
+    margin-bottom: 50px;
+}
+.climb_title {
+    padding-top: 200px;
+    padding-bottom: 220px;
+    margin-top: 83px;
+}
+
+.explore {
+    font-size:45px;
+    margin-left: 100px;
+    text-align: right;
+}
+.world {
+    font-size: 50px;
+    text-align: right;
+}
+
+/*form last part start*/
+.ten_h1{
+    font-size: 55px;
+}
+.s_form {
+    margin-left: -106px;
+}
+.s_form input {
+    padding-right: 50px;
+    padding-left: 25px;
+    width: 500px;
+    height: 54px;
+    padding-bottom: 10px 20px;
+    font-size: 20px;
+    
+}
+.s_form button {
+    font-size: 16px;
+    width: 170px;
+    height: 54px;
+    right: 28px;
+}
+/*last part end*/
+/*climb title end*/
+/*footer last part start*/
+.f_icon {
+    margin-left: 20px;
+}
+.text_ftr {
+    margin-left: 10px;
+    text-align: center;
+}
+.p_ftr {
+    /* text-align: left; */
+    font-size: 17px;
+    margin: 30px auto 0;
+}
+.h3_ftr {
+    margin-left: 20px;
+}
+.last {
+    margin-left: -37px;
+    padding-top: 100px;
+}
+.c_h1 {
+    font-size: 55px;
+}
+.c_text {
+    font-size: 20px;
+}
+/*footer last part start*/
+}
+
+
+
+/*Large devices (desktops, 992px and up)*/ 
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+
+/*logo start*/
+.logo {
+    width: 85px;
+    height: 85px;
+}
+/*logo start*/
+/*navbar search start*/
+
+.carousel-caption h1 {
+    font-size: 63px;
+    padding-top: 100px;
+    padding-bottom: 0px;
+    }
+    .carousel-caption h5 {
+    font-size: 19px;
+    margin-top: -5px;
+    padding-top: 10px;
+    padding-bottom: 25px;
+    padding-right: 150px;
+    word-spacing: 1px;
+}
+.carousel-caption a {
+    font-size: 17px;
+    margin-left: 50px;
+    margin-top: 28px;
+    padding: 6px 23px;
+    float: left;
+}
+
+.carousel-caption p {
+    font-size: 15px !important;
+    padding-bottom: 73px;
+    }
+
+
+.searchtext {
+    width: 165px;
+    height: 40px;
+    
+}
+/*navbar search end*/
+.navbar_header ul li a{
+    font-size: 14px !important;
+    letter-spacing: 1px;
+    padding: 0 35px !important;
+    
+}
+/*feature start*/
+.team{
+    width: 320px;
+    height: 520px;
+    box-shadow:0 0 10px 1px rgb(255,255, 255, .2) ;
+    transition: .5s;
+    cursor: pointer;
+
+}
+.custom_title{
+    font-size: 25px;
+}
+.custom_text{
+    font-size: 19px;
+}
+.container_bn button {
+    font-size: 19.15px;
+    padding: 14px 54px;
+    } 
+/*feature end*/
+/*about start*/
+.five{
+    height: 620px;
+}   
+.six{
+    height: 620px;
+   
+} 
+.service_b h1 {
+    font-size: 38px;
+   
+    }
+    .service_b p {
+    font-size: 20px;
+    margin-top: 18px;
+   
+    
+}
+.service_b .btn_service button {
+    font-size: 16px;
+    padding: 8px 38px;
+}
+.service_b .btn_service {
+    margin-right: 50px;
+    margin-bottom: 45px;
+    
+}
+
+.service_c h1 {
+    padding-top: 44px;
+    font-size: 38px;
+
+ }
+ .service_c p {
+    font-size: 20px;
+    margin-right: 14px;
+
+}
+.service_c .btn_service button {
+    font-size: 16px;
+    padding: 8px 38px;
+    margin-left: 45px;
+}
+.service_c .btn_service {
+    margin-bottom: 10px;
+   
+}
+/*about end*/
+/*hiking start*/
+.hiking{
+    margin-top: 30px;
+}
+.hik_h1 {
+    font-size: 35px;
+   
+}
+.hik_p {
+    font-size: 20px;
+   
+}
+/*climb title*/
+
+.climb {
+    margin-top: -30px;
+}
+
+.climb_title {
+    margin-right: 50px;
+}
+.explore {
+    font-size: 53px;
+    margin-left: 100px;
+    text-align: right;
+}
+.world {
+    font-size: 59px;
+    text-align: right;
+}
+/*climb title end*/
+/*footer part start*/
+.last {
+    margin-left: -37px;
+    padding-top: 200px;
+}
+
+.f_icon i {
+    font-size: 35px;
+    
+}
+
+.p_ftr {
+    
+    font-size: 20px;
+}
+.h3_ftr {
+    font-family: 'OpenSans-Bold';
+    font-size: 18px;
+    }
+    /*form part start*/
+    .contact {
+    padding-top: 100px;
+    padding-bottom: 110px;
+}
+    .s_form {
+    margin-left: -33px;
+}
+.signup {
+    margin-left: -56px;
+}
+.s_form input {
+    padding-right: 54px;
+    width: 515px;
+    height: 50px;
+    padding-bottom: 10px 20px;
+    font-size: 20px;
+    
+}
+.s_form button {
+    font-size: 17px;
+    width: 160px;
+    height: 50px;
+    transition: .4s;
+    right: -14px;
+}
+
+}
+
+/*X-Large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+
+    .carousel-caption h1 {
+    font-size: 74px;
+    padding-top: 128px;
+    }
+   
+
+.carousel-caption h5 {
+    font-size: 22px;
+    margin-top: -5px;
+    margin-left: 1px;
+    padding-right: 188px;
+    
+}
+
+
+.carousel-caption a {
+    font-size: 27px;
+    margin-left: 37px;
+    margin-top: -7px;
+   
+}
+
+.carousel-caption p {
+    font-size: 20px !important;
+    padding-bottom: 65px;
+    }
+    .paragraph{
+    margin-left: 10px;
+}
+/*about start*/
+.five{
+    height: 680px;
+}   
+.six{
+    height: 680px;
+   
+} 
+.service_b h1 {
+    font-size: 47px;
+   
+    }
+    .service_b p {
+    font-size: 24px;
+    margin-top: 20px;
+   
+    
+}
+.service_b .btn_service button {
+    font-size: 20px;
+    padding: 10px 50px;
+}
+.service_b .btn_service {
+    margin-bottom: 83px;
+    
+}
+
+.service_c h1 {
+    width: 100%;
+    padding-top: 50px;
+    font-size: 45px;
+
+ }
+ .service_c p {
+    font-size: 20px;
+
+}
+.service_c .btn_service button {
+    font-size: 18px;
+    padding: 13px 52px;
+    margin-left: 45px;
+}
+.service_c .btn_service {
+    margin-bottom: 99px;
+   
+}
+/*about end*/
+
+/*hiking part*/
+.climb{
+    margin-top: 30px;
+}
+.hik_h1 {
+    font-size: 41px;
+    margin-left: -8px;
+    margin-top: 52px;
+
+} .hik_p{
+    font-size: 20px;
+}
+/*footer part start*/
+.last {
+    padding-top: 190px;
+}
+
+}
+
+
+
+/*XX-Large devices (larger desktops, 1400px and up)*/
+@media (min-width: 1400px) {
+
+ }
